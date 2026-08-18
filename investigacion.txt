@@ -12,6 +12,11 @@ ORCID: https://orcid.org/0009-0009-9100-5950
 
 PUBLICACIONES VERIFICADAS
 
+Sánchez, José Antonio; Araceli Rodríguez; y Matías Antezana. “Desarrollo de sistema diagnóstico complementario para optimización de procesos formativos en el ciclo inicial de Arquitectura. Universidad de Valparaíso”. Subtítulo: “Resultados de primera aplicación de encuesta diagnóstica EAUV”. Universidad de Valparaíso, Escuela de Arquitectura, 2026. ISBN 978-956-214-281-6.
+DOI: https://doi.org/10.22370/resultados.EAUV.2026
+
+Reinaldo Xie Chong declara haber realizado la maquetación del libro, el procesamiento de la base de datos de la primera encuesta, el análisis y la generación de gráficos mediante una aplicación creada para leer y transformar los datos. Reinaldo Xie Chong solicitó no ser acreditado por esos roles.
+
 Sánchez Toro, José Antonio, y Reinaldo Chong Vega. “Dos cuadros, dos paisajes, un acto fundacional: La Fundación de Santiago y la construcción de un imaginario de paisaje”. Anales de Investigación en Arquitectura, volumen 15, número 1, 2025.
 DOI: https://doi.org/10.18861/ania.2025.15.1.4038
 

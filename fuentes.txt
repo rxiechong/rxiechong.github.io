@@ -40,6 +40,13 @@ La autoría bajo Kusari, las tecnologías y los detalles internos son declaracio
 
 INVESTIGACIÓN
 
+Repositorio UV, “Desarrollo de sistema diagnóstico complementario para optimización de procesos formativos en el ciclo inicial de Arquitectura”:
+https://repositoriobibliotecas.uv.cl/items/23bb683c-e1a8-4955-aa33-57f9db1ce95b
+
+DOI: https://doi.org/10.22370/resultados.EAUV.2026
+
+La ficha institucional corrobora título, autores, año, editorial, ISBN y DOI. La maquetación, el procesamiento de datos, la aplicación de parseo, el análisis y los gráficos realizados por Reinaldo Xie Chong no aparecen acreditados y se registran como declaración primaria.
+
 DOAJ: https://doaj.org/article/032309c9e4004454b80739cf1c3b853c
 DOI: https://doi.org/10.18861/ania.2025.15.1.4038
 Márgenes: https://revistas.uv.cl/index.php/margenes/article/download/3826/3953/16956

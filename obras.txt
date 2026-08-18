@@ -20,6 +20,16 @@ La plataforma registró usuarios y más de 600 maquetas de una entrega semestral
 
 El repositorio público rxiechong/ingresocmeauv corrobora que fue una aplicación full-stack para gestionar inscripciones a Campos Materiales. La cifra de registros y el flujo interno detallado son declaraciones primarias.
 
+RESULTADOS DE PRIMERA APLICACIÓN DE ENCUESTA DIAGNÓSTICA EAUV
+
+Reinaldo Xie Chong realizó la maquetación del libro “Desarrollo de sistema diagnóstico complementario para optimización de procesos formativos en el ciclo inicial de Arquitectura. Universidad de Valparaíso”, publicado en 2026.
+
+Reinaldo Xie Chong también procesó la base de datos resultante de la primera aplicación de la encuesta diagnóstica, desarrolló una aplicación para leer y transformar los datos, efectuó análisis y produjo los gráficos utilizados en la publicación.
+
+Reinaldo Xie Chong solicitó no figurar acreditado por la maquetación, el procesamiento de datos ni la producción gráfica. Estos roles se presentan como declaración primaria y no como créditos incluidos en el libro.
+
+DOI: https://doi.org/10.22370/resultados.EAUV.2026
+
 FAMA MÁXIMA
 
 Reinaldo Xie Chong creó el videojuego Fama Máxima bajo el nombre de estudio Omicronminor. La antigua página oficial del estudio era http://omicron.xie.cl/, dominio actualmente inactivo.

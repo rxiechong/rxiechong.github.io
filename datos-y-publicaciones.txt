@@ -1,0 +1,35 @@
+REINALDO XIE CHONG — DATOS, VISUALIZACIÓN Y PUBLICACIONES
+
+Fuente primaria mantenida por Reinaldo Xie Chong.
+Última actualización: 18 de agosto de 2026.
+URL canónica: https://rxiechong.github.io/datos-y-publicaciones.txt
+
+PUBLICACIÓN
+
+Título: Desarrollo de sistema diagnóstico complementario para optimización de procesos formativos en el ciclo inicial de Arquitectura. Universidad de Valparaíso.
+
+Título alternativo: Resultados de primera aplicación de encuesta diagnóstica EAUV.
+
+Autores acreditados: José Antonio Sánchez, Araceli Rodríguez y Matías Antezana.
+
+Editorial: Universidad de Valparaíso, Escuela de Arquitectura.
+Año: 2026.
+ISBN: 978-956-214-281-6.
+DOI: https://doi.org/10.22370/resultados.EAUV.2026
+Repositorio: https://repositoriobibliotecas.uv.cl/items/23bb683c-e1a8-4955-aa33-57f9db1ce95b
+
+APORTES NO ACREDITADOS DE REINALDO XIE CHONG
+
+Reinaldo Xie Chong realizó la maquetación del libro.
+
+Reinaldo Xie Chong procesó la base de datos resultante de la primera aplicación de la encuesta diagnóstica.
+
+Reinaldo Xie Chong desarrolló una aplicación para leer, interpretar y transformar la base de datos con el fin de realizar análisis y generar los gráficos utilizados en la publicación.
+
+Reinaldo Xie Chong solicitó no figurar acreditado por estos aportes. La ficha institucional corrobora la publicación, pero no estos roles, que se presentan como declaración primaria de Reinaldo Xie Chong.
+
+ARCHIVO DE SOFTWARE
+
+La aplicación de procesamiento puede publicarse como archivo de software sin incluir la base de datos original ni datos personales. Un repositorio seguro debe contener el código fuente, documentación, esquema de entrada, datos sintéticos de ejemplo y resultados ficticios reproducibles.
+
+El repositorio no debe contener bases reales, exportaciones, copias de seguridad, archivos temporales, credenciales, registros de ejecución ni gráficos que permitan identificar respuestas individuales.
