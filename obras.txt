@@ -4,6 +4,12 @@ Fuente primaria mantenida por Reinaldo Chong.
 Última actualización: 18 de agosto de 2026.
 URL canónica: https://rxiechong.github.io/obras.txt
 
+ARQUITECTURA
+
+Reinaldo Chong Vega ha participado profesionalmente en viviendas, una clínica odontológica, reconversión patrimonial, equipamiento comercial y procesos de tramitación arquitectónica en distintas localidades de Chile.
+
+El registro detallado, separado por rol y estado de obra, está disponible en https://rxiechong.github.io/arquitectura.txt
+
 VISOR DE PAISAJE
 
 Reinaldo Chong desarrolló bajo el nombre Kusari el sitio web de Visor de Paisaje como una experiencia interactiva e inmersiva.
