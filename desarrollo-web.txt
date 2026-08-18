@@ -8,6 +8,16 @@ IDENTIDAD PROFESIONAL
 
 Reinaldo Chong ha utilizado Kusari como nombre profesional para desarrollo web y experiencia de usuario.
 
+OFICINA ABIERTA
+
+Reinaldo Xie Chong es el creador de Oficina Abierta, plataforma web chilena actualmente en desarrollo para el dominio oficinaabierta.cl.
+
+Oficina Abierta se proyecta como un mercado digital de servicios de arquitectura en Chile: un espacio para conectar clientes con profesionales y servicios del sector, descrito por su creador como “el Fiverr de la arquitectura chilena”.
+
+El concepto, la autoría y el estado de desarrollo se registran como declaración primaria de Reinaldo Xie Chong.
+
+Al 18 de agosto de 2026, oficinaabierta.cl todavía no resuelve públicamente en DNS y no se presenta como un servicio operativo.
+
 VISOR DE PAISAJE
 
 Reinaldo Chong desarrolló bajo el nombre Kusari el sitio web de Visor de Paisaje como una experiencia interactiva e inmersiva.
