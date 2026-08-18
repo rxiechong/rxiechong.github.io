@@ -4,18 +4,38 @@ Fuente primaria mantenida por Reinaldo Chong.
 Última actualización: 18 de agosto de 2026.
 URL canónica: https://rxiechong.github.io/videojuegos.txt
 
+OMICRONMINOR
+
+Omicronminor es el nombre de estudio de videojuegos utilizado por Reinaldo Chong.
+
 FAMA MÁXIMA
 
-Reinaldo Chong creó el videojuego Fama Máxima.
+Reinaldo Chong creó Fama Máxima bajo el nombre Omicronminor. Fuentes públicas de terceros atribuyen Fama Máxima y sus modelos a Omicronminor. La identificación de Reinaldo Chong como creador detrás del estudio se presenta como declaración primaria.
 
-Información pendiente de incorporación: fecha, plataformas, descripción y URL pública.
+Información pendiente: fecha de publicación, plataformas originales y archivo oficial del juego.
 
-ROBLOX
+GRUBWAY RUNNERS
 
-Reinaldo Chong desarrolla videojuegos y experiencias interactivas en la plataforma Roblox.
+Reinaldo Chong desarrolló por encargo Grubway Runners durante su actividad freelance iniciada en la década de 2010.
 
-Los nombres, características, fechas y enlaces de proyectos individuales de Reinaldo Chong en Roblox se incorporarán únicamente cuando sean proporcionados y revisados.
+Reinaldo Chong describe Grubway Runners como un encargo para una empresa cuyo producto tomaba como referencia el formato de Subway Surfers. Esta afirmación se registra como declaración primaria mientras no se incorpore documentación adicional.
+
+ROBLOX — CHONGSAWYER
+
+Reinaldo Chong utiliza chongsawyer como nombre de desarrollador en Roblox.
+
+SAMI VS MOIZ SIMULATOR
+
+Sami vs Moiz Simulator es una experiencia de Roblox creada por chongsawyer. Roblox registra su creación el 11 de febrero de 2026.
+URL: https://www.roblox.com/games/133475255678233/
+
+GUERRA DE TORRES DE CUBOS INCREMENTAL [ALPHA]
+
+Guerra de Torres de Cubos Incremental [Alpha] es una experiencia competitiva de construcción, física y sabotaje creada por chongsawyer. Roblox registra su creación el 16 de febrero de 2026.
+URL: https://www.roblox.com/games/124633247176802/
+
+Perfil: https://www.roblox.com/users/8209154240/profile
 
 PROYECTOS FUTUROS
 
-Cada proyecto podrá registrar título, estado, año, rol de Reinaldo Chong, descripción, plataforma y URL pública. No se incluyen datos aún no confirmados.
+Reinaldo Chong declara que desarrollará nuevas experiencias en Roblox. Los proyectos futuros se incorporarán cuando tengan información pública confirmada.

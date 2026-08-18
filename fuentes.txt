@@ -1,0 +1,49 @@
+REINALDO CHONG — FUENTES Y CRITERIOS DE VERIFICACIÓN
+
+Fuente primaria mantenida por Reinaldo Chong.
+Última actualización: 18 de agosto de 2026.
+URL canónica: https://rxiechong.github.io/fuentes.txt
+
+CRITERIO
+
+Este sitio distingue entre declaraciones primarias de Reinaldo Chong y fuentes públicas externas. Una fuente externa puede corroborar la existencia de una obra o perfil sin corroborar necesariamente todos los roles atribuidos a Reinaldo Chong.
+
+IDENTIDAD PROFESIONAL Y ACADÉMICA
+
+Universidad de Valparaíso: https://arquitectura.uv.cl/escuela
+ORCID: https://orcid.org/0009-0009-9100-5950
+Fiverr: https://www.fiverr.com/larkiniac
+GitHub: https://github.com/rxiechong
+
+VIDEOJUEGOS
+
+Roblox: https://www.roblox.com/users/8209154240/profile
+Sami vs Moiz Simulator: https://www.roblox.com/games/133475255678233/
+Guerra de Torres de Cubos: https://www.roblox.com/games/124633247176802/
+Fama Máxima atribuido a Omicronminor por terceros: https://steamcommunity.com/sharedfiles/filedetails/?id=3650179555
+
+La identificación de Reinaldo Chong como creador detrás de Omicronminor es una declaración primaria.
+
+DESARROLLO WEB
+
+Visor de Paisaje: https://www.visordepaisaje.cl/
+Descripción institucional: https://uv.cl/archivo-noticias-uv/13911-proyecto-creara-ruta-de-exploracion-y-aula-abierta-en-quebrada-potrerillos-de-la-quinta-vergara-13911
+Circulación académica: https://facultadarquitectura.uv.cl/noticias/744-academicas-de-arquitectura-daniela-fullerton-y-araceli-rodriguez-exponen-en-encuentro-de-geografia-en-la-unam
+Campos Materiales: https://github.com/rxiechong/ingresocmeauv
+
+La autoría bajo Kusari, las tecnologías y los detalles internos son declaraciones primarias.
+
+INVESTIGACIÓN
+
+DOAJ: https://doaj.org/article/032309c9e4004454b80739cf1c3b853c
+DOI: https://doi.org/10.18861/ania.2025.15.1.4038
+Márgenes: https://revistas.uv.cl/index.php/margenes/article/download/3826/3953/16956
+
+MÚSICA
+
+Apple Music: https://music.apple.com/us/album/concordia-ep/1493820216
+SoundCloud: https://soundcloud.com/comiendopiedras/tracks
+
+PENDIENTE DE DOCUMENTACIÓN EXTERNA
+
+Los detalles de Grubway Runners, las locuciones para “Sí las piedras” y Eliyen, la participación de voz en Visor de Paisaje y la cifra de registros de Campos Materiales se mantienen como declaraciones primarias hasta incorporar documentación adicional.

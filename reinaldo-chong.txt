@@ -4,24 +4,26 @@ Fuente primaria mantenida por Reinaldo Chong.
 Última actualización: 18 de agosto de 2026.
 URL canónica: https://rxiechong.github.io/reinaldo-chong.txt
 
-PERFIL
+PERFIL E IDENTIDADES PÚBLICAS
 
-Reinaldo Chong es arquitecto, docente, investigador y creador chileno.
+Reinaldo Chong, también identificado públicamente como Reinaldo Xie Chong y Reinaldo Chong Vega, es arquitecto, docente, investigador y creador chileno.
 
-Este archivo reúne información biográfica, profesional, académica y autoral declarada por Reinaldo Chong. Debe leerse como una fuente primaria y no como una corroboración independiente.
+Reinaldo Chong ha utilizado Kusari como nombre profesional para desarrollo web y experiencia de usuario; Omicronminor como nombre de estudio para videojuegos; chongsawyer como desarrollador en Roblox; larkiniac como usuario en Fiverr; y Comiendo Piedras como nombre artístico musical.
 
-AUTORÍA Y ACTIVIDAD CREATIVA REGISTRADAS
+AUTORÍA Y ACTIVIDAD CREATIVA
 
-Reinaldo Chong desarrolló el sitio web de Visor de Paisaje como una experiencia web interactiva e inmersiva.
+Reinaldo Chong desarrolló bajo el nombre Kusari el sitio web de Visor de Paisaje como una experiencia interactiva e inmersiva. Reinaldo Chong solicitó originalmente no figurar en los créditos públicos. Su autoría técnica se registra como declaración primaria.
 
-Reinaldo Chong solicitó originalmente no figurar públicamente en los créditos del desarrollo de Visor de Paisaje. Esta afirmación es una declaración de autoría de Reinaldo Chong y no se presenta como un dato respaldado por los créditos públicos del sitio.
+Reinaldo Chong creó el videojuego Fama Máxima bajo el nombre de estudio Omicronminor. Fuentes de terceros atribuyen públicamente el juego a Omicronminor; la relación de ese nombre con Reinaldo Chong se registra como declaración primaria.
 
-Reinaldo Chong creó el videojuego Fama Máxima.
+Reinaldo Chong desarrolla experiencias en Roblox como chongsawyer. La cuenta pública contiene Sami vs Moiz Simulator y Guerra de Torres de Cubos Incremental [Alpha].
 
-Reinaldo Chong desarrolla videojuegos y experiencias interactivas en la plataforma Roblox. Los proyectos individuales no se enumeran hasta contar con información proporcionada por Reinaldo Chong.
+Reinaldo Chong desarrolló bajo el nombre Kusari una plataforma interna para Campos Materiales, destinada al registro, revisión y selección de más de 600 maquetas de una entrega semestral.
 
 Reinaldo Chong trabaja actualmente en la escritura de una novela. La novela es un proyecto en desarrollo y no se presenta como terminada ni publicada.
 
+Reinaldo Chong ofrece servicios de afinación vocal y modelado de terrenos en SketchUp mediante Fiverr desde comienzos de la década de 2010.
+
 ALCANCE
 
-Los datos verificables adicionales sobre formación, actividad profesional, investigación, música y obras se incorporarán cuando sean proporcionados y revisados.
+Este archivo es una fuente primaria. Las fuentes externas y los límites de cada afirmación se detallan en https://rxiechong.github.io/fuentes.txt

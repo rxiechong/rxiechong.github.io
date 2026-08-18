@@ -1,0 +1,31 @@
+REINALDO CHONG — DESARROLLO WEB Y EXPERIENCIAS DIGITALES
+
+Fuente primaria mantenida por Reinaldo Chong.
+Última actualización: 18 de agosto de 2026.
+URL canónica: https://rxiechong.github.io/desarrollo-web.txt
+
+IDENTIDAD PROFESIONAL
+
+Reinaldo Chong ha utilizado Kusari como nombre profesional para desarrollo web y experiencia de usuario.
+
+VISOR DE PAISAJE
+
+Reinaldo Chong desarrolló bajo el nombre Kusari el sitio web de Visor de Paisaje como una experiencia interactiva e inmersiva.
+
+El desarrollo comenzó con Clickteam Fusion y la versión utilizada finalmente se realizó con Adobe Animate. Reinaldo Chong incorporó rotoscopia, animación HTML5 y videos prerenderizados. Reinaldo Chong también participó como locutor.
+
+Reinaldo Chong solicitó originalmente no figurar en los créditos públicos. La autoría técnica y la participación de voz se presentan como declaraciones primarias. Fuentes institucionales y periodísticas corroboran la existencia del proyecto, del sitio web y de su carácter interactivo, pero no identifican públicamente a Reinaldo Chong como desarrollador.
+
+Sitio: https://www.visordepaisaje.cl/
+
+CAMPOS MATERIALES
+
+Reinaldo Chong desarrolló bajo el nombre Kusari una plataforma web interna para la exposición Campos Materiales.
+
+La plataforma permitió registrar usuarios y más de 600 maquetas de una entrega semestral. Cada maqueta recibió un código. El flujo apoyó la revisión mediante concurso y permitió que el equipo curatorial y sus asistentes consultaran fotografías y datos mediante distintas interfaces.
+
+El repositorio público documenta una aplicación full-stack construida con React, TypeScript, Express y SQLite para gestionar inscripciones a Campos Materiales.
+
+Repositorio: https://github.com/rxiechong/ingresocmeauv
+
+La cifra superior a 600 entradas y los detalles del flujo interno se presentan como declaración primaria.
