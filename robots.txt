@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://reinaldochong.github.io/sitemap.xml
+Sitemap: https://rxiechong.github.io/sitemap.xml
