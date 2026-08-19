@@ -48,6 +48,15 @@ Dominio declarado para Oficina Abierta: oficinaabierta.cl
 
 La autoría de Reinaldo Xie Chong, la definición del proyecto como mercado de servicios para la arquitectura chilena y su estado de desarrollo son declaraciones primarias. El dominio no resolvía públicamente en DNS durante la revisión del 18 de agosto de 2026.
 
+ARQUITECTURA Y CONCURSOS
+
+ArcDeck, “Valparaiso Public Park, Chile”, publicación del 11 de enero de 2021:
+https://www.instagram.com/p/CJ7UCyXjCNb/?img_index=5
+
+La publicación de ArcDeck identifica la obra como una de las diez propuestas ganadoras de la categoría profesional del concurso “Radical Urban Intervention” y acredita el proyecto a Xie+Pezo, Chile, con las cuentas @xie.arq y @pezo.arq.
+
+La identificación de Xie y @xie.arq con Reinaldo Xie Chong se registra como declaración primaria del autor.
+
 INVESTIGACIÓN
 
 Repositorio UV, “Desarrollo de sistema diagnóstico complementario para optimización de procesos formativos en el ciclo inicial de Arquitectura”:
